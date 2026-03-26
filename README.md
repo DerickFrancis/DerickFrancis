@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 |---------|-------|--------|
 | 🧠 Smart Business Dashboard | React · Django · PostgreSQL · Chart.js | 🔨 In Progress |
 | 🏥 Hospital Appointment System | React · Django · MySQL | 🔨 In Progress |
-| 🎧 DJ Store Rental Service | React · Django · Stripe | 🔨 In Progress |
+| 💻 Laptop Rental Service | React · Django · Stripe | 🔨 In Progress |
 | 🏢 Enterprise Inventory Manager | ASP.NET Core · MSSQL | 🔨 In Progress |
 | 💬 Real-Time Chat App | React · Django Channels · WebSocket | 🔨 In Progress |
 | 📋 Task Board Platform | Next.js · TypeScript · PostgreSQL | 🔨 In Progress |
